@@ -6,12 +6,23 @@
       <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
         <mark key="'" line="9" column="16" />
       </file>
+      <file name="/Dummy.txt" timestamp="1506758135520">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/ItemCardList.js" timestamp="1506757675767">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/Champions.js" timestamp="1506754036695">
         <mark key="'" line="72" column="6" />
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/webpack.config.common.js" timestamp="1506757482234">
+        <mark key="[" line="110" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" timestamp="1505573714547">
         <mark key="'" line="24" column="48" />
@@ -26,6 +37,17 @@
         <mark key="]" line="16" column="5" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" timestamp="1506758656155">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/reducers/index.js" timestamp="1506758584149">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="1" />
+        <mark key="." line="34" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -56,61 +78,61 @@
       <jump line="9" column="16" filename="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" />
       <jump line="16" column="40" filename="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/Champions.js" />
       <jump line="72" column="6" filename="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/Champions.js" />
+      <jump line="16" column="3" filename="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9odG1s</text>
+        <text>Re</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Re</text>
       </register>
       <register name="/" type="4">
-        <text>div</text>
+        <text>impor</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PC9odG1s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">Y2xhc3MgSXRlbUNhcmRMaXN0IGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">fQogICAgfQogIH0K</text>
+      <register name="3" type="2">
+        <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">fSBlbHNlIHsKICAgICAgICByZXR1cm4gY29uZmlnLmJpbmFyeS5yZXBsYWNlKC9cLy9nLCAnXFwnKTsKICAgICAg</text>
+        <text encoding="base64">fQogICAgfQogIH0K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">fSBlbHNlIHsKICAgICAgaWYgKHByb2Nlc3MucGxhdGZvcm0gPT09ICdkYXJ3aW4nKSB7CiAgICAgICAgcmV0dXJuIGNvbmZpZy5iaW5hcnkuc3BsaXQoJy9Db250ZW50cycpLnNoaWZ0KCk7CiAgICAgIA==</text>
+        <text encoding="base64">fSBlbHNlIHsKICAgICAgICByZXR1cm4gY29uZmlnLmJpbmFyeS5yZXBsYWNlKC9cLy9nLCAnXFwnKTsKICAgICAg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ewogICAgaWYgKGNvbmZpZy50eXBlID09PSAnZW52aXJvbm1lbnQnKSB7CiAgICAgIGxldCBjbWQgPSAocHJvY2Vzcy5wbGF0Zm9ybSA9PT0gJ3dpbjMyJykgPyAnL0xlYWd1ZUNsaWVudC5leGUnIDogJy9Db250ZW50cy9Mb0wvTGVhZ3VlQ2xpZW50LmFwcCc7CiAgICAgIHJldHVybiBjb25maWcuZW52aXJvbm1lbnRQYXRoICsgY21kOwogICAg</text>
+        <text encoding="base64">fSBlbHNlIHsKICAgICAgaWYgKHByb2Nlc3MucGxhdGZvcm0gPT09ICdkYXJ3aW4nKSB7CiAgICAgICAgcmV0dXJuIGNvbmZpZy5iaW5hcnkuc3BsaXQoJy9Db250ZW50cycpLnNoaWZ0KCk7CiAgICAgIA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">fSBjYXRjaCAoZSkgewogICAgICAgIHJldHVybiAwOwogICAgICA=</text>
+        <text encoding="base64">ewogICAgaWYgKGNvbmZpZy50eXBlID09PSAnZW52aXJvbm1lbnQnKSB7CiAgICAgIGxldCBjbWQgPSAocHJvY2Vzcy5wbGF0Zm9ybSA9PT0gJ3dpbjMyJykgPyAnL0xlYWd1ZUNsaWVudC5leGUnIDogJy9Db250ZW50cy9Mb0wvTGVhZ3VlQ2xpZW50LmFwcCc7CiAgICAgIHJldHVybiBjb25maWcuZW52aXJvbm1lbnRQYXRoICsgY21kOwogICAg</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IAogICAgICAgIHJldHVybiBmcy5zdGF0U3luYyhwYXRoLnJlc29sdmUocmFkc1BhdGgsIGZvbGRlciwgJ1NfT0snKSkubXRpbWUuZ2V0VGltZSgpOwogICAgICA=</text>
+        <text encoding="base64">fSBjYXRjaCAoZSkgewogICAgICAgIHJldHVybiAwOwogICAgICA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ewogICAgICA=</text>
+        <text encoding="base64">IAogICAgICAgIHJldHVybiBmcy5zdGF0U3luYyhwYXRoLnJlc29sdmUocmFkc1BhdGgsIGZvbGRlciwgJ1NfT0snKSkubXRpbWUuZ2V0VGltZSgpOwogICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
       </register>
     </registers>
     <search>
-      <last-search>div</last-search>
+      <last-search>impor</last-search>
       <last-offset />
-      <last-pattern>div</last-pattern>
+      <last-pattern>impor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>li</entry>
         <entry>body</entry>
         <entry>docum</entry>
@@ -130,6 +152,7 @@
         <entry encoding="base64">PGxp</entry>
         <entry>set</entry>
         <entry>div</entry>
+        <entry>impor</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
