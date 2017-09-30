@@ -30,8 +30,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="riot-recruit" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ggihwa/ggi-react.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Develop/riotgames/homework" />
+    <option name="cloneParentDir" value="$USER_HOME$/Develop" />
   </component>
 </application>
