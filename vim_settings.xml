@@ -9,11 +9,6 @@
       <file name="/Dummy.txt" timestamp="1506758135520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/ItemCardList.js" timestamp="1506757675767">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/Champions.js" timestamp="1506754036695">
         <mark key="'" line="72" column="6" />
         <mark key="[" line="28" column="23" />
@@ -23,6 +18,11 @@
       </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/webpack.config.common.js" timestamp="1506757482234">
         <mark key="[" line="110" column="12" />
+      </file>
+      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/ItemCardList.js" timestamp="1506757675767">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" timestamp="1505573714547">
         <mark key="'" line="24" column="48" />
@@ -48,6 +48,11 @@
         <mark key="[" line="34" column="1" />
         <mark key="]" line="34" column="1" />
         <mark key="." line="34" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/ggi-react/package.json" timestamp="1506791170455">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -82,10 +87,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Re</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Re</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>impor</text>
