@@ -1,10 +1,17 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
         <mark key="'" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/Champions.js" timestamp="1506754036695">
+        <mark key="'" line="72" column="6" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="28" />
+        <mark key="^" line="28" column="28" />
+        <mark key="." line="28" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" timestamp="1505573714547">
         <mark key="'" line="24" column="48" />
@@ -47,6 +54,8 @@
       <jump line="11" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
       <jump line="16" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
       <jump line="9" column="16" filename="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" />
+      <jump line="16" column="40" filename="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/Champions.js" />
+      <jump line="72" column="6" filename="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/Champions.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -56,7 +65,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PGxp</text>
+        <text>div</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PC9odG1s</text>
@@ -93,15 +102,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PGxp</last-search>
+      <last-search>div</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PGxp</last-pattern>
+      <last-pattern>div</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test*</entry>
         <entry>test</entry>
         <entry>li</entry>
         <entry>body</entry>
@@ -120,6 +128,8 @@
         <entry>p</entry>
         <entry encoding="base64">PHA=</entry>
         <entry encoding="base64">PGxp</entry>
+        <entry>set</entry>
+        <entry>div</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
@@ -127,6 +137,8 @@
         <entry>tag div</entry>
         <entry encoding="base64">dGFnIDxwPg==</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
     <editor>
