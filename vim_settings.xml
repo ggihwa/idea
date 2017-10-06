@@ -66,12 +66,12 @@
       <file name="/fragment.java" timestamp="1507289729765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" timestamp="1507290262470">
+      <file name="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" timestamp="1507292020482">
         <mark key="'" line="105" column="16" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="16" />
-        <mark key="^" line="103" column="20" />
-        <mark key="." line="103" column="16" />
+        <mark key="[" line="119" column="26" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="120" column="17" />
+        <mark key="." line="120" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -116,8 +116,8 @@
       <jump line="105" column="16" filename="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0ZXN0ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -128,32 +128,32 @@
       <register name="0" type="4">
         <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0ZXN0ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgSXRlbUNhcmRMaXN0IGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VmVyaWZ5Q29kZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0p</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgSXRlbUNhcmRMaXN0IGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">fQogICAgfQogIH0K</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">fSBlbHNlIHsKICAgICAgICByZXR1cm4gY29uZmlnLmJpbmFyeS5yZXBsYWNlKC9cLy9nLCAnXFwnKTsKICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">fSBlbHNlIHsKICAgICAgaWYgKHByb2Nlc3MucGxhdGZvcm0gPT09ICdkYXJ3aW4nKSB7CiAgICAgICAgcmV0dXJuIGNvbmZpZy5iaW5hcnkuc3BsaXQoJy9Db250ZW50cycpLnNoaWZ0KCk7CiAgICAgIA==</text>
+        <text encoding="base64">fQogICAgfQogIH0K</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ewogICAgaWYgKGNvbmZpZy50eXBlID09PSAnZW52aXJvbm1lbnQnKSB7CiAgICAgIGxldCBjbWQgPSAocHJvY2Vzcy5wbGF0Zm9ybSA9PT0gJ3dpbjMyJykgPyAnL0xlYWd1ZUNsaWVudC5leGUnIDogJy9Db250ZW50cy9Mb0wvTGVhZ3VlQ2xpZW50LmFwcCc7CiAgICAgIHJldHVybiBjb25maWcuZW52aXJvbm1lbnRQYXRoICsgY21kOwogICAg</text>
+        <text encoding="base64">fSBlbHNlIHsKICAgICAgICByZXR1cm4gY29uZmlnLmJpbmFyeS5yZXBsYWNlKC9cLy9nLCAnXFwnKTsKICAgICAg</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">fSBjYXRjaCAoZSkgewogICAgICAgIHJldHVybiAwOwogICAgICA=</text>
+        <text encoding="base64">fSBlbHNlIHsKICAgICAgaWYgKHByb2Nlc3MucGxhdGZvcm0gPT09ICdkYXJ3aW4nKSB7CiAgICAgICAgcmV0dXJuIGNvbmZpZy5iaW5hcnkuc3BsaXQoJy9Db250ZW50cycpLnNoaWZ0KCk7CiAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
