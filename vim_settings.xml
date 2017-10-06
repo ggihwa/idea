@@ -31,9 +31,9 @@
         <mark key="." line="24" column="48" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/index.jsx" timestamp="1507286391754">
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/index.jsx" timestamp="1507287317332">
         <mark key="'" line="9" column="7" />
-        <mark key="[" line="9" column="0" />
+        <mark key="[" line="16" column="45" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
@@ -59,6 +59,9 @@
         <mark key="[" line="27" column="29" />
         <mark key="]" line="27" column="29" />
         <mark key="." line="27" column="29" />
+      </file>
+      <file name="/fragment.java" timestamp="1507287496226">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
