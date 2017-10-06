@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
@@ -34,6 +34,11 @@
       </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/webpack.config.common.js" timestamp="1506757482234">
         <mark key="[" line="110" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/setup.js" timestamp="1507296543060">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" timestamp="1505573714547">
         <mark key="'" line="24" column="48" />
@@ -119,11 +124,11 @@
       <jump line="105" column="16" filename="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gJ3JlYWN0JzsK</text>
+      <register name="&quot;" type="4">
+        <text>renderSync</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>renderSync</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XD4=</text>
