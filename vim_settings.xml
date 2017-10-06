@@ -55,19 +55,23 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1507289645555">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/reducers/index.js" timestamp="1506758584149">
         <mark key="[" line="34" column="1" />
         <mark key="]" line="34" column="1" />
         <mark key="." line="34" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1507287496226">
+      <file name="/fragment.java" timestamp="1507289729765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" timestamp="1507288856075">
-        <mark key="[" line="119" column="26" />
-        <mark key="]" line="120" column="22" />
-        <mark key="^" line="120" column="22" />
-        <mark key="." line="120" column="22" />
+      <file name="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" timestamp="1507290262470">
+        <mark key="'" line="105" column="16" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="16" />
+        <mark key="^" line="103" column="20" />
+        <mark key="." line="103" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -105,16 +109,21 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/Develop/ggi-react/app/src/index.jsx" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Develop/ggi-react/app/src/index.jsx" />
       <jump line="10" column="7" filename="$USER_HOME$/Documents/Develop/ggi-react/app/src/index.jsx" />
+      <jump line="100" column="23" filename="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" />
+      <jump line="129" column="0" filename="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" />
+      <jump line="103" column="14" filename="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" />
+      <jump line="105" column="16" filename="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0p</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>impor</text>
+        <text encoding="base64">XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0pCg==</text>
@@ -151,18 +160,14 @@
       </register>
     </registers>
     <search>
-      <last-search>impor</last-search>
+      <last-search encoding="base64">XD4=</last-search>
       <last-offset />
-      <last-pattern>impor</last-pattern>
+      <last-pattern encoding="base64">XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>li</entry>
-        <entry>body</entry>
-        <entry>docum</entry>
-        <entry>Doc</entry>
         <entry>get</entry>
         <entry>process</entry>
         <entry>defa</entry>
@@ -179,6 +184,10 @@
         <entry>set</entry>
         <entry>div</entry>
         <entry>impor</entry>
+        <entry>verifycode</entry>
+        <entry>Verif</entry>
+        <entry encoding="base64">XC9cPg==</entry>
+        <entry encoding="base64">XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
