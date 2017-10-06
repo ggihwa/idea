@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
@@ -14,10 +14,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" timestamp="1507293708680">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" timestamp="1507293852014">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/ggi-react/package.json" timestamp="1506791170455">
         <mark key="[" line="27" column="29" />
