@@ -47,11 +47,10 @@
         <mark key="." line="24" column="48" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/index.jsx" timestamp="1507287317332">
-        <mark key="'" line="9" column="7" />
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/index.jsx" timestamp="1507298297564">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1505614300369">
         <mark key="'" line="16" column="6" />
@@ -124,8 +123,8 @@
       <jump line="105" column="16" filename="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>renderSync</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>renderSync</text>
@@ -137,31 +136,31 @@
         <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIFRyYXkgZXh0ZW5kcyBDb21wb25lbnQgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0ZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJvdXRlcyBmcm9tICcuL3JvdXRlcycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0ZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0ZXN0ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CmNsYXNzIFRyYXkgZXh0ZW5kcyBDb21wb25lbnQgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8VmVyaWZ5Q29kZQo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0p</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgSXRlbUNhcmRMaXN0IGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
