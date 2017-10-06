@@ -17,11 +17,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" timestamp="1507303049305">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
+      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" timestamp="1507303700033">
+        <mark key="'" line="6" column="16" />
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/ggi-react/package.json" timestamp="1506791170455">
         <mark key="[" line="27" column="29" />
@@ -55,6 +55,13 @@
       </file>
       <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/routes.jsx" timestamp="1507301615931">
         <mark key="'" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" timestamp="1507303935503">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" timestamp="1505573714547">
         <mark key="'" line="24" column="48" />
@@ -177,61 +184,66 @@
       <jump line="20" column="2" filename="$USER_HOME$/Documents/Develop/ggi-react/webpack.config.js" />
       <jump line="24" column="8" filename="$USER_HOME$/Documents/Develop/ggi-react/webpack.config.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/List.jsx" />
+      <jump line="4" column="16" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" />
+      <jump line="2" column="23" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdwcjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGl2IA==</text>
       </register>
       <register name="-" type="4">
-        <text>typ</text>
+        <text encoding="base64">ZGl2IA==</text>
       </register>
       <register name="/" type="4">
-        <text>im</text>
+        <text>imp</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdwcjsK</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8IGlkPSJsb2dpbiI+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykK</text>
+        <text encoding="base64">aW1wb3J0ICBmcm9tICdwcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWVsZW1lbnRCeUlkCg==</text>
+        <text encoding="base64">CWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQkJCTxsaT48TGluayB0bz0iL2xpc3QiPkxpc3Q8L0xpbms+PC9saT4KCgkJCTwvdWw+CgkJCXtyb3V0ZXN9CgkJPC9kaXY+Cgk8L1JvdXRlcj4sCgllbGVtZW50QnlJZA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWVsZW1lbnRCeUlkCg==</text>
+        <text encoding="base64">CWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWVsZW1lbnRCeUlkCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CQkJCTxsaT48TGluayB0bz0iL2xpc3QiPkxpc3Q8L0xpbms+PC9saT4KCgkJCTwvdWw+CgkJCXtyb3V0ZXN9CgkJPC9kaXY+Cgk8L1JvdXRlcj4sCgllbGVtZW50QnlJZA==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
       </register>
     </registers>
     <search>
-      <last-search>im</last-search>
+      <last-search>imp</last-search>
       <last-offset />
-      <last-pattern>im</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>imp</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
         <entry encoding="base64">PA==</entry>
         <entry>p</entry>
         <entry encoding="base64">PHA=</entry>
@@ -251,6 +263,7 @@
         <entry>loader</entry>
         <entry>mod</entry>
         <entry>im</entry>
+        <entry>imp</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
