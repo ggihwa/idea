@@ -28,7 +28,7 @@
         <mark key="]" line="27" column="29" />
         <mark key="." line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/package.json" timestamp="1507301633731">
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/package.json" timestamp="1507724917121">
         <mark key="'" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/Champions.js" timestamp="1506754036695">
@@ -70,13 +70,6 @@
         <mark key="." line="24" column="48" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/index.jsx" timestamp="1507301458351">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1505614300369">
         <mark key="'" line="16" column="6" />
         <mark key="[" line="20" column="8" />
@@ -105,8 +98,9 @@
         <mark key="'" line="105" column="16" />
         <mark key="[" line="8" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/App.jsx" timestamp="1507301478047">
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/App.jsx" timestamp="1507725290382">
         <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="3" />
       </file>
     </filemarks>
     <jumps>
