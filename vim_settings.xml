@@ -6,9 +6,6 @@
       <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
         <mark key="'" line="9" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507298979078">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.js" timestamp="1507300994550">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,10 +20,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/ggi-react/package.json" timestamp="1506791170455">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="29" />
-        <mark key="." line="27" column="29" />
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/helper.js" timestamp="1507820144476">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/ggi-react/package.json" timestamp="1507724917121">
         <mark key="'" line="34" column="0" />
@@ -41,20 +39,42 @@
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/webpack.config.common.js" timestamp="1506757482234">
         <mark key="[" line="110" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/List.jsx" timestamp="1507302898875">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="3" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/Develop/ggi-react/webpack.config.js" timestamp="1507301737555">
         <mark key="'" line="24" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/routes.jsx" timestamp="1507301615931">
+        <mark key="'" line="4" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1507302776675">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/reducers/index.js" timestamp="1506758584149">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="1" />
+        <mark key="." line="34" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" timestamp="1507293251108">
+        <mark key="'" line="105" column="16" />
+        <mark key="[" line="8" column="50" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1507298979078">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/ggi-react/package.json" timestamp="1506791170455">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/List.jsx" timestamp="1507819751610">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/setup.js" timestamp="1507296543060">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/routes.jsx" timestamp="1507301615931">
-        <mark key="'" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" timestamp="1507303935503">
         <mark key="'" line="13" column="0" />
@@ -83,20 +103,8 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1507302776675">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/reducers/index.js" timestamp="1506758584149">
-        <mark key="[" line="34" column="1" />
-        <mark key="]" line="34" column="1" />
-        <mark key="." line="34" column="1" />
-      </file>
       <file name="/fragment.java" timestamp="1507302781616">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" timestamp="1507293251108">
-        <mark key="'" line="105" column="16" />
-        <mark key="[" line="8" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/App.jsx" timestamp="1507725290382">
         <mark key="'" line="3" column="0" />
@@ -184,16 +192,18 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Develop/ggi-react/app/src/helper.js" />
+      <jump line="8" column="32" filename="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/List.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGl2IA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGl2IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>imp</text>
+        <text encoding="base64">TGlzdDw=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0pCg==</text>
@@ -230,15 +240,14 @@
       </register>
     </registers>
     <search>
-      <last-search>imp</last-search>
+      <last-search encoding="base64">TGlzdDw=</last-search>
       <last-offset />
-      <last-pattern>imp</last-pattern>
+      <last-pattern encoding="base64">TGlzdDw=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PA==</entry>
         <entry>p</entry>
         <entry encoding="base64">PHA=</entry>
         <entry encoding="base64">PGxp</entry>
@@ -258,6 +267,7 @@
         <entry>mod</entry>
         <entry>im</entry>
         <entry>imp</entry>
+        <entry encoding="base64">TGlzdDw=</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
