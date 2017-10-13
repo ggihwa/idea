@@ -83,6 +83,11 @@
         <mark key="." line="22" column="7" />
         <mark key="^" line="22" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/reducers/index.js" timestamp="1507898865938">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="1" />
+        <mark key="." line="34" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" timestamp="1505573714547">
         <mark key="'" line="24" column="48" />
         <mark key="[" line="24" column="48" />
@@ -197,10 +202,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">TGlzdDw=</text>
