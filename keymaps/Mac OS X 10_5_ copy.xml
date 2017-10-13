@@ -1,9 +1,9 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta f12" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="meta q" />
   </action>
-  <action id="VimMotionInnerBlockSingleQuote">
-    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  <action id="Exit" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
 </keymap>
