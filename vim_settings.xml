@@ -19,6 +19,9 @@
       <file name="/fragment.js" timestamp="1507300994550">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Help/index.js" timestamp="1508219953299">
+        <mark key="'" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/ItemCardList.js" timestamp="1506757675767">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="0" />
@@ -213,6 +216,7 @@
       <jump line="5" column="20" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/Icon.js" />
       <jump line="14" column="78" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/TrayContainer.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/Tray.js" />
+      <jump line="2" column="18" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Help/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
