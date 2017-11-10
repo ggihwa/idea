@@ -16,6 +16,7 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/assets/stylesheets/colors.scss" timestamp="1510309590173" />
       <file name="/fragment.js" timestamp="1507300994550">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,6 +34,12 @@
         <mark key="]" line="16" column="5" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/index.js" timestamp="1510309698076">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/webpack.config.common.js" timestamp="1506757482234">
         <mark key="[" line="110" column="12" />
@@ -68,6 +75,12 @@
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/recipemenu.scss" timestamp="1510309913389">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="12" column="81" />
+        <mark key="^" line="12" column="59" />
+        <mark key="." line="12" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/Tray.js" timestamp="1507882997596">
         <mark key="'" line="12" column="0" />
@@ -217,16 +230,17 @@
       <jump line="14" column="78" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/TrayContainer.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/Tray.js" />
       <jump line="2" column="18" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Help/index.js" />
+      <jump line="6" column="6" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>Str</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0pCg==</text>
@@ -263,15 +277,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Str</last-search>
+      <last-search encoding="base64">Pg==</last-search>
       <last-offset />
-      <last-pattern>Str</last-pattern>
+      <last-pattern encoding="base64">Pg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PGxp</entry>
         <entry>set</entry>
         <entry>div</entry>
         <entry>impor</entry>
@@ -291,6 +304,7 @@
         <entry encoding="base64">TGlzdDw=</entry>
         <entry>string</entry>
         <entry>Str</entry>
+        <entry encoding="base64">Pg==</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
