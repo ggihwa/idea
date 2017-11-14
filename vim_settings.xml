@@ -38,6 +38,11 @@
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/webpack.config.common.js" timestamp="1506757482234">
         <mark key="[" line="110" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Inventory/index.js" timestamp="1510624416724">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" timestamp="1507293251108">
         <mark key="'" line="105" column="16" />
         <mark key="[" line="8" column="50" />
@@ -213,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
