@@ -60,8 +60,8 @@
         <mark key="." line="24" column="48" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_vendor/getRecipe.js" timestamp="1510721870675">
-        <mark key="'" line="0" column="23" />
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_vendor/getRecipe.js" timestamp="1510724629152">
+        <mark key="'" line="9" column="41" />
         <mark key="[" line="0" column="25" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1507302776675">
@@ -221,6 +221,7 @@
       <jump line="6" column="6" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/index.js" />
       <jump line="0" column="23" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_vendor/getRecipe.js" />
       <jump line="11" column="22" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/index.js" />
+      <jump line="9" column="41" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_vendor/getRecipe.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
