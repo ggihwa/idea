@@ -83,6 +83,9 @@
       <file name="/HTML File.txt.ft" timestamp="1507302776675">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/index.js" timestamp="1512033883089">
+        <mark key="'" line="5" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/TrayContainer.js" timestamp="1507882943741">
         <mark key="'" line="14" column="78" />
         <mark key="[" line="17" column="0" />
@@ -246,6 +249,8 @@
       <jump line="9" column="41" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_vendor/getRecipe.js" />
       <jump line="3" column="10" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/CrafterRoot.js" />
       <jump line="20" column="39" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/actions/crafter.js" />
+      <jump line="4" column="45" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/index.js" />
+      <jump line="5" column="35" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
