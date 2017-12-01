@@ -109,8 +109,8 @@
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/reducers/crafter.js" timestamp="1512035381513">
-        <mark key="'" line="8" column="20" />
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/reducers/crafter.js" timestamp="1512094398840">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/App.jsx" timestamp="1507725290382">
@@ -253,6 +253,8 @@
       <jump line="4" column="45" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/index.js" />
       <jump line="5" column="35" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/index.js" />
       <jump line="8" column="20" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/reducers/crafter.js" />
+      <jump line="33" column="12" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/reducers/crafter.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/reducers/crafter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
