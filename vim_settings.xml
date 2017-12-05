@@ -35,6 +35,9 @@
         <mark key="]" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/index.js" timestamp="1512453131806">
+        <mark key="'" line="7" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/actions/crafter.js" timestamp="1511949709256">
         <mark key="'" line="20" column="39" />
       </file>
@@ -255,6 +258,7 @@
       <jump line="8" column="20" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/reducers/crafter.js" />
       <jump line="33" column="12" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/reducers/crafter.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/reducers/crafter.js" />
+      <jump line="7" column="26" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
