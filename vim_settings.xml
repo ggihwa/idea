@@ -22,6 +22,13 @@
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Help/index.js" timestamp="1508219953299">
         <mark key="'" line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/chun/youtube-search.js" timestamp="1513060741834">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1505614300369">
         <mark key="'" line="16" column="6" />
         <mark key="[" line="20" column="8" />
@@ -163,8 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" />
       <jump line="28" column="0" filename="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" />
@@ -263,61 +268,62 @@
       <jump line="16" column="51" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/index.js" />
       <jump line="19" column="36" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/index.js" />
       <jump line="20" column="32" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/index.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/Documents/Develop/chun/youtube-search.js" />
+      <jump line="11" column="21" filename="$USER_HOME$/Documents/Develop/chun/youtube-search.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>api</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGRjbGFzcyBJY29uIGV4dGVuZHMgUHVyZUNvbXBvbmVudCB7Cg==</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8IGlkPSJsb2dpbiI+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
+        <text encoding="base64">ZGRjbGFzcyBJY29uIGV4dGVuZHMgUHVyZUNvbXBvbmVudCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8IGlkPSJsb2dpbiI+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pg==</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
         <entry>div</entry>
         <entry>impor</entry>
         <entry>verifycode</entry>
@@ -337,6 +343,7 @@
         <entry>string</entry>
         <entry>Str</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
