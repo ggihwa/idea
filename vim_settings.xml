@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
@@ -70,6 +70,12 @@
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/Tray.js" timestamp="1507882997596">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/study/react/webpack.common.config.js" timestamp="1514083690488">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1507302776675">
         <mark key="[" line="0" column="0" />
