@@ -3,11 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" timestamp="1514220832809">
-        <mark key="[" line="10" column="16" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
-        <mark key="'" line="9" column="16" />
+      <file name="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" timestamp="1514219352589">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1507300994550">
         <mark key="[" line="0" column="0" />
@@ -106,6 +107,9 @@
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
+        <mark key="'" line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/CrafterRoot.js" timestamp="1511142008454">
         <mark key="'" line="3" column="10" />
       </file>
@@ -131,13 +135,6 @@
         <mark key="." line="24" column="48" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1505614300369">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/Icon.js" timestamp="1507875025410">
         <mark key="'" line="5" column="20" />
         <mark key="[" line="6" column="20" />
@@ -150,6 +147,13 @@
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1505614300369">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1507874234280">
         <mark key="[" line="0" column="0" />
@@ -252,62 +256,62 @@
       <jump line="11" column="22" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/index.js" />
       <jump line="9" column="41" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_vendor/getRecipe.js" />
       <jump line="3" column="10" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/CrafterRoot.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>en</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">b3V0cHV0OiBbCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGRjbGFzcyBJY29uIGV4dGVuZHMgUHVyZUNvbXBvbmVudCB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8IGlkPSJsb2dpbiI+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">ZGRjbGFzcyBJY29uIGV4dGVuZHMgUHVyZUNvbXBvbmVudCB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8IGlkPSJsb2dpbiI+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pg==</last-search>
+      <last-search>en</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-pattern>en</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>div</entry>
         <entry>impor</entry>
         <entry>verifycode</entry>
         <entry>Verif</entry>
@@ -326,6 +330,8 @@
         <entry>string</entry>
         <entry>Str</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>ent</entry>
+        <entry>en</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
@@ -348,6 +354,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
