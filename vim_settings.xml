@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" timestamp="1514220197287">
+      <file name="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" timestamp="1514220832809">
         <mark key="[" line="10" column="16" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
