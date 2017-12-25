@@ -1,8 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" timestamp="1514220197287">
+        <mark key="[" line="10" column="16" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
         <mark key="'" line="9" column="16" />
       </file>
@@ -151,7 +154,6 @@
       <file name="/fragment.java" timestamp="1507874234280">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/study/react/package.json" timestamp="1514044405799" />
       <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/App.jsx" timestamp="1507725290382">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="8" column="3" />
