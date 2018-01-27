@@ -13,9 +13,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>.</mask>
-      <mask>.j</mask>
       <mask>.js</mask>
+      <mask>.j</mask>
+      <mask>.</mask>
     </recentFileMasks>
   </component>
 </application>
