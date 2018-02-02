@@ -140,7 +140,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/recipeBuilder.js" timestamp="1517548889204">
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/recipeBuilder.js" timestamp="1517560468792">
+        <mark key="'" line="88" column="38" />
         <mark key="[" line="173" column="49" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -278,6 +279,7 @@
       <jump line="63" column="9" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/Crafter/Crafter.js" />
       <jump line="3" column="8" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/Crafter/Crafter.js" />
       <jump line="57" column="27" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/Crafter/Crafter.js" />
+      <jump line="88" column="38" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/recipeBuilder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
