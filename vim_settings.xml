@@ -3,53 +3,11 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" timestamp="1514219352589">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc" timestamp="1505575210445">
         <mark key="'" line="9" column="16" />
       </file>
-      <file name="/fragment.js" timestamp="1507300994550">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/recipemenu.scss" timestamp="1510309913389">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="12" column="81" />
-        <mark key="^" line="12" column="59" />
-        <mark key="." line="12" column="81" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Chest/ChestRoot.js" timestamp="1511863830942">
-        <mark key="[" line="45" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Inventory/index.js" timestamp="1510624416724">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" timestamp="1507303700033">
-        <mark key="'" line="6" column="16" />
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/helper.js" timestamp="1507820144476">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Develop/ggi-react/package.json" timestamp="1507724917121">
         <mark key="'" line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/index.js" timestamp="1510721856616">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/store/components/list/Champions.js" timestamp="1506754036695">
         <mark key="'" line="72" column="6" />
@@ -58,22 +16,17 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/webpack.config.common.js" timestamp="1506757482234">
-        <mark key="[" line="110" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/webpack.config.js" timestamp="1507301737555">
-        <mark key="'" line="24" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_vendor/getRecipe.js" timestamp="1510724629152">
-        <mark key="'" line="9" column="41" />
-        <mark key="[" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/Crafter/CrafterButtons.js" timestamp="1517410952847" />
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/routes.jsx" timestamp="1507301615931">
-        <mark key="'" line="4" column="0" />
+      <file name="/fragment.js" timestamp="1507300994550">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Help/index.js" timestamp="1508219953299">
         <mark key="'" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/index.js" timestamp="1510721856616">
+        <mark key="'" line="14" column="22" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/Crafter/Crafter.js" timestamp="1516979895043">
         <mark key="'" line="57" column="27" />
@@ -82,9 +35,18 @@
         <mark key="^" line="63" column="9" />
         <mark key="." line="63" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/Tray.js" timestamp="1507882997596">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="2" column="36" />
+      <file name="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" timestamp="1514219352589">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/CrafterRoot.js" timestamp="1511142008454">
+        <mark key="'" line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/webpack.config.common.js" timestamp="1506757482234">
+        <mark key="[" line="110" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/study/react/webpack.common.config.js" timestamp="1514083690488">
         <mark key="[" line="0" column="0" />
@@ -92,52 +54,36 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/helper/recipeBuilder.js" timestamp="1517461579430">
-        <mark key="'" line="10" column="75" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1507302776675">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/TrayContainer.js" timestamp="1507882943741">
-        <mark key="'" line="14" column="78" />
-        <mark key="[" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" timestamp="1507293251108">
-        <mark key="'" line="105" column="16" />
-        <mark key="[" line="8" column="50" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1507298979078">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/study/react/index.html" timestamp="1514021885690">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/List.jsx" timestamp="1507819751610">
-        <mark key="'" line="8" column="32" />
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="22" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/CrafterRoot.js" timestamp="1511142008454">
-        <mark key="'" line="3" column="10" />
-      </file>
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Inventory/InventoryItem.js" timestamp="1510748067443">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" timestamp="1507303935503">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="7" />
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Inventory/index.js" timestamp="1510624416724">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/helper/recipeBuilder.js" timestamp="1517461579430">
+        <mark key="'" line="10" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/study/react/src/index.js" timestamp="1514021929936">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/helper/lootItemBuilder.js" timestamp="1518065481982" />
+      <file name="$USER_HOME$/Documents/Develop/riotgames/simple-auth-ui/src/pages/SMSAuth/SMSAuthForm.jsx" timestamp="1507293251108">
+        <mark key="'" line="105" column="16" />
+        <mark key="[" line="8" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" timestamp="1507303700033">
+        <mark key="'" line="6" column="16" />
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_vendor/getRecipe.js" timestamp="1510724629152">
+        <mark key="'" line="9" column="41" />
+        <mark key="[" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" timestamp="1505573714547">
         <mark key="'" line="24" column="48" />
@@ -146,6 +92,28 @@
         <mark key="." line="24" column="48" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1507302776675">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/study/react/index.html" timestamp="1514021885690">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/TrayContainer.js" timestamp="1507882943741">
+        <mark key="'" line="14" column="78" />
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/components/RecipeMenu/recipemenu.scss" timestamp="1510309913389">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="12" column="81" />
+        <mark key="^" line="12" column="59" />
+        <mark key="." line="12" column="81" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1507298979078">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1505614300369">
         <mark key="'" line="16" column="6" />
         <mark key="[" line="20" column="8" />
@@ -153,8 +121,32 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/actions/crafter.epic.js" timestamp="1517446326057">
-        <mark key="'" line="12" column="47" />
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/Tray.js" timestamp="1507882997596">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/List.jsx" timestamp="1507819751610">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/App.jsx" timestamp="1507725290382">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/helper.js" timestamp="1507820144476">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/store/components/login/Login.js" timestamp="1507303935503">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Layout/Icon.js" timestamp="1507875025410">
         <mark key="'" line="5" column="20" />
@@ -163,18 +155,26 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Chest/ChestRoot.js" timestamp="1511863830942">
+        <mark key="[" line="45" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/webpack.config.js" timestamp="1507301737555">
+        <mark key="'" line="24" column="8" />
+      </file>
       <file name="$USER_HOME$/Develop/riotgames/mobile-purchase-ui/src/loot/containers/layout/Tray.js" timestamp="1506758656155">
         <mark key="'" line="16" column="3" />
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/actions/crafter.epic.js" timestamp="1517446326057">
+        <mark key="'" line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/routes.jsx" timestamp="1507301615931">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1507874234280">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/containers/App.jsx" timestamp="1507725290382">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="8" column="3" />
       </file>
     </filemarks>
     <jumps>
