@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="CrafterSkinInventory.js" type="JavaScript" />
       <mapping ext="webm" type="Native" />
       <mapping pattern="CrafterList" type="PLAIN_TEXT" />
       <mapping pattern="Root" type="PLAIN_TEXT" />
