@@ -4,6 +4,7 @@
       <mapping ext="webm" type="Native" />
       <mapping pattern="CrafterList" type="PLAIN_TEXT" />
       <mapping pattern="Root" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
