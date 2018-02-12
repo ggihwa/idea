@@ -81,6 +81,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/CrafterDefault.js" timestamp="1518425746789">
+        <mark key="'" line="45" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_vendor/getRecipe.js" timestamp="1510724629152">
         <mark key="'" line="9" column="41" />
         <mark key="[" line="0" column="25" />
@@ -182,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="12" filename="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Develop/riotgames/rclient/riotclient-cli/lib/client-helper.js" />
@@ -282,6 +284,7 @@
       <jump line="12" column="47" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/actions/crafter.epic.js" />
       <jump line="10" column="75" filename="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/helper/recipeBuilder.js" />
       <jump line="10" column="63" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/CrafterSkinInventory.js" />
+      <jump line="45" column="27" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/loot/containers/Crafter/CrafterDefault.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
