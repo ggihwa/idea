@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="CrafterSkinInventory.js" type="JavaScript" />
       <mapping ext="webm" type="Native" />
+      <mapping pattern="sketchapp.md" type="PLAIN_TEXT" />
       <mapping pattern="CrafterList" type="PLAIN_TEXT" />
       <mapping pattern="Root" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
