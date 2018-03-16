@@ -1,8 +1,13 @@
 <keymap version="1" name="Mac OS X 10.5+ copy 2" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.SelectRow" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
-  <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="shift space" second-keystroke="v" />
-  </action>
+  <action id="VimPluginToggle" />
 </keymap>
