@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="CrafterSkinInventory.js" type="JavaScript" />
+      <mapping pattern="CrafterResultItemDisplayOfChampionToken" type="JavaScript" />
       <mapping ext="webm" type="Native" />
+      <mapping pattern="CrafterResultItemDisplayOfChampionToken.js" type="PLAIN_TEXT" />
       <mapping pattern="sketchapp.md" type="PLAIN_TEXT" />
       <mapping pattern="CrafterList" type="PLAIN_TEXT" />
       <mapping pattern="Root" type="PLAIN_TEXT" />
