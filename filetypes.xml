@@ -1,14 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="crafterresultchampionlevelup2" type="ActionScript" />
       <mapping pattern="CrafterSkinInventory.js" type="JavaScript" />
+      <mapping pattern="CrafterResultItemDisplayOfChampionToken" type="JavaScript" />
       <mapping ext="webm" type="Native" />
-      <mapping pattern="sketchapp.md" type="PLAIN_TEXT" />
-      <mapping pattern="CrafterList" type="PLAIN_TEXT" />
       <mapping pattern="Root" type="PLAIN_TEXT" />
+      <mapping pattern="CrafterResultItemDisplayOfChampionToken.js" type="PLAIN_TEXT" />
+      <mapping pattern="CrafterList" type="PLAIN_TEXT" />
+      <mapping pattern="sketchapp.md" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="ru" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping pattern="crafterresultchampionlevelup" type="SCSS" />
     </extensionMap>
   </component>
 </application>
