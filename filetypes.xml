@@ -8,6 +8,7 @@
       <mapping pattern="Root" type="PLAIN_TEXT" />
       <mapping pattern="CrafterResultItemDisplayOfChampionToken.js" type="PLAIN_TEXT" />
       <mapping pattern="CrafterList" type="PLAIN_TEXT" />
+      <mapping pattern="2018_07" type="PLAIN_TEXT" />
       <mapping pattern="sketchapp.md" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
