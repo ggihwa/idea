@@ -6,6 +6,7 @@
       <mapping pattern="CrafterResultItemDisplayOfChampionToken" type="JavaScript" />
       <mapping ext="webm" type="Native" />
       <mapping pattern="Root" type="PLAIN_TEXT" />
+      <mapping pattern=".roadhogrc" type="PLAIN_TEXT" />
       <mapping pattern="CrafterResultItemDisplayOfChampionToken.js" type="PLAIN_TEXT" />
       <mapping pattern="CrafterList" type="PLAIN_TEXT" />
       <mapping pattern="sketchapp.md" type="PLAIN_TEXT" />
