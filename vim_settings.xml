@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Develop/ggi-TIL/react/sketchapp.md" timestamp="1519655883310">
@@ -185,11 +185,11 @@
       <file name="$USER_HOME$/Documents/Develop/riotgames/mobile-purchase-ui/src/loot/actions/crafter.epic.js" timestamp="1517446326057">
         <mark key="'" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/store/containers/Payments/index.js" timestamp="1539742538501">
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="2" column="31" />
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/store/containers/Payments/index.js" timestamp="1539743903797">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Develop/ggi-react/app/src/routes.jsx" timestamp="1507301615931">
         <mark key="'" line="4" column="0" />
@@ -307,11 +307,11 @@
       <jump line="111" column="48" filename="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/_config/routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgUGF5bWVudHMgZXh0ZW5kcyBSZWFjdC5jb21wb25lbnQgewo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>RpPur</text>
@@ -320,31 +320,31 @@
         <text encoding="base64">CmNvbnN0IGFyciA9IFsxLCAyLCAzXTsKYXJyLnB1c2goWzQsNV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3V0cHV0OiBbCg==</text>
+        <text encoding="base64">Y2xhc3MgUGF5bWVudHMgZXh0ZW5kcyBSZWFjdC5jb21wb25lbnQgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDoK</text>
+        <text encoding="base64">Y2xhc3MgUGF5bWVudHMgZXh0ZW5kcyBSZWFjdC5jb21wb25lbnQgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">b3V0cHV0OiBbCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRjbGFzcyBJY29uIGV4dGVuZHMgUHVyZUNvbXBvbmVudCB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8IGlkPSJsb2dpbiI+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
