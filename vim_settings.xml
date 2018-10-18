@@ -35,6 +35,11 @@
         <mark key="^" line="63" column="9" />
         <mark key="." line="63" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Develop/mobilestore/mobile-purchase-ui/src/l10n/index.js" timestamp="1539839383617">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Develop/ggi-riot-homework/react/webpack.config.js" timestamp="1514219352589">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="13" column="0" />
@@ -311,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Paymen</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Paymen</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>payments</text>
