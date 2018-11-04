@@ -2,19 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="crafterresultchampionlevelup2" type="ActionScript" />
-      <mapping pattern="CrafterSkinInventory.js" type="JavaScript" />
+      <mapping ext="dust" type="HTML" />
       <mapping pattern="CrafterResultItemDisplayOfChampionToken" type="JavaScript" />
+      <mapping pattern="CrafterSkinInventory.js" type="JavaScript" />
       <mapping ext="webm" type="Native" />
-      <mapping pattern="Root" type="PLAIN_TEXT" />
       <mapping pattern=".roadhogrc" type="PLAIN_TEXT" />
-      <mapping pattern="2018_07" type="PLAIN_TEXT" />
+      <mapping pattern="Root" type="PLAIN_TEXT" />
       <mapping pattern="CrafterResultItemDisplayOfChampionToken.js" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="CrafterList" type="PLAIN_TEXT" />
       <mapping pattern="sketchapp.md" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping ext="dust" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping pattern="2018_07" type="PLAIN_TEXT" />
       <mapping ext="ru" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping pattern="crafterresultchampionlevelup" type="SCSS" />
     </extensionMap>
